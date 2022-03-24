@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\NumbericTextBox\bin\Debug\NumbericTextBox.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\NumbericTextBox\bin\Debug\NumbericTextBox.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\NumbericTextBox\obj\Debug\NumbericTextBox.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\NumbericTextBox\obj\Debug\NumbericTextBox.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\NumbericTextBox\obj\Debug\NumbericTextBox.pdb

@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\UpperTextBox\bin\Debug\UpperTextBox.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\UpperTextBox\bin\Debug\UpperTextBox.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\UpperTextBox\obj\Debug\UpperTextBox.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi2\WindowsFormsApplication1\UpperTextBox\obj\Debug\UpperTextBox.pdb
