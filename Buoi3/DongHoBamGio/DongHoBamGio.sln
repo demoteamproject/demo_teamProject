@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalClock", "..\DigitalClock\DigitalClock\DigitalClock.csproj", "{CF3614DD-28E4-41A8-ACAA-439A3EA6A535}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DongHoBamGio", "DongHoBamGio\DongHoBamGio\DongHoBamGio.csproj", "{05AE458F-B14D-43A8-92B0-646A41246ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DHBGform", "DHBGform\DHBGform.csproj", "{F4C94C57-D03F-46A1-86C1-24F4A0A50F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThongTinSVtxt", "..\ThongTinSVtxt\ThongTinSVtxt\ThongTinSVtxt.csproj", "{8550E91C-135A-48B8-9E00-444F21B53EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3614DD-28E4-41A8-ACAA-439A3EA6A535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3614DD-28E4-41A8-ACAA-439A3EA6A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3614DD-28E4-41A8-ACAA-439A3EA6A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3614DD-28E4-41A8-ACAA-439A3EA6A535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05AE458F-B14D-43A8-92B0-646A41246ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AE458F-B14D-43A8-92B0-646A41246ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AE458F-B14D-43A8-92B0-646A41246ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AE458F-B14D-43A8-92B0-646A41246ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C94C57-D03F-46A1-86C1-24F4A0A50F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C94C57-D03F-46A1-86C1-24F4A0A50F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C94C57-D03F-46A1-86C1-24F4A0A50F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C94C57-D03F-46A1-86C1-24F4A0A50F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

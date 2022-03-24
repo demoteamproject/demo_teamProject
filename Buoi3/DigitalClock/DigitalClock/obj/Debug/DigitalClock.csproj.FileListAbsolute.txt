@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\bin\Debug\DigitalClock.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Digital_Clock.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\obj\Debug\DigitalClock.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb

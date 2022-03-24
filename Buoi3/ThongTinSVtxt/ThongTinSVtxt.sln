@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThongTinSVtxt", "ThongTinSVtxt\ThongTinSVtxt.csproj", "{8550E91C-135A-48B8-9E00-444F21B53EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThongTinSVform", "ThongTinSVform\ThongTinSVform.csproj", "{7CB92586-CEC4-4E5F-B1A0-7683D54D44B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8550E91C-135A-48B8-9E00-444F21B53EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB92586-CEC4-4E5F-B1A0-7683D54D44B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB92586-CEC4-4E5F-B1A0-7683D54D44B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB92586-CEC4-4E5F-B1A0-7683D54D44B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB92586-CEC4-4E5F-B1A0-7683D54D44B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

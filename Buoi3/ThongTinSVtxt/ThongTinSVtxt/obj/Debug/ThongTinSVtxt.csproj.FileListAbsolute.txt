@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\bin\Debug\ThongTinSVtxt.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\bin\Debug\ThongTinSVtxt.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\obj\Debug\ThongTinSVtxt.ThongTinSVtxt.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\obj\Debug\ThongTinSVtxt.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\obj\Debug\ThongTinSVtxt.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVtxt\obj\Debug\ThongTinSVtxt.pdb

@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGioform.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.Form1.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGioform.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\bin\Debug\DongHoBamGio.exe.config

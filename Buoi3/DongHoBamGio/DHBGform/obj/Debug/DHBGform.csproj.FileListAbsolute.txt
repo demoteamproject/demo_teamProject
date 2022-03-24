@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\bin\Debug\DHBGform.exe.config
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\bin\Debug\DHBGform.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\bin\Debug\DHBGform.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\bin\Debug\DongHoBamGio.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\bin\Debug\DongHoBamGio.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.Form1.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DHBGform\obj\Debug\DHBGform.pdb

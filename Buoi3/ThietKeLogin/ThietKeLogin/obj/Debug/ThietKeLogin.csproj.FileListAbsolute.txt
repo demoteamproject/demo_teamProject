@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\bin\Debug\ThietKeLogin.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\bin\Debug\ThietKeLogin.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\obj\Debug\ThietKeLogin.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\obj\Debug\ThietKeLogin.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\obj\Debug\ThietKeLogin.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\obj\Debug\ThietKeLogin.ThietKeLogin.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\bin\Debug\DigitalClock.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\bin\Debug\DigitalClock.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\ThietKeLogin\obj\Debug\ThietKeLogin.csprojResolveAssemblyReference.cache

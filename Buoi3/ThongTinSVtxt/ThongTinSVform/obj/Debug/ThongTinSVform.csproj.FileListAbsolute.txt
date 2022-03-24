@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\bin\Debug\ThongTinSVform.exe.config
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\bin\Debug\ThongTinSVform.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\bin\Debug\ThongTinSVform.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\bin\Debug\ThongTinSVtxt.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\bin\Debug\ThongTinSVtxt.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.Form1.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThongTinSVtxt\ThongTinSVform\obj\Debug\ThongTinSVform.pdb

@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\bin\Debug\DongHoBamGio.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\bin\Debug\DongHoBamGio.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.DongHoBamGio.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\DongHoBamGio\DongHoBamGio\DongHoBamGio\obj\Debug\DongHoBamGio.pdb

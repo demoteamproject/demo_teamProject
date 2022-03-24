@@ -1,0 +1,13 @@
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\Buoi3.exe.config
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\Buoi3.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\Buoi3.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.exe
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\ThietKeLogin.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\ThietKeLogin.pdb
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\obj\Debug\Buoi3.Form1.resources
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\DigitalClock.dll
+E:\LuuDuLieuSinhVien\TranGiaPhuc\Buoi3\ThietKeLogin\Buoi3\bin\Debug\DigitalClock.pdb
